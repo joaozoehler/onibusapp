@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protecao_Onibus.app.br"
+AuthUserFile /.htpassword
+require valid-user
